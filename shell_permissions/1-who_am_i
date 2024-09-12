@@ -1,2 +1,2 @@
 #!/bin/bash
-root@266297281d39:/home/alx_be_shell/shell_permissions# ./1-who_am_i
+./1-who_am_i
